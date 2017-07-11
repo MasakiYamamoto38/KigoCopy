@@ -31,7 +31,7 @@ namespace SenmonKigo
 
         public void MyInitializeComponent()
         {
-            KigoSearch.inuptKigoData(@"C:\Users\goodw\Documents\Visual Studio 2017\Projects\SenmonKigo\SenmonKigo\bin\Debug\専門学校学科記号.csv");
+            KigoSearch.inuptKigoData(@".\専門学校学科記号.csv"); //aaa
 
             this.button1.Content = "該当する学科はありません";
             this.button2.Content = "該当する学科はありません";
@@ -59,7 +59,6 @@ namespace SenmonKigo
 
                     listBox1.Items.Add(
                         km.colleges[i] + "カレッジ  |　"+ km.departments[i] + "   | " + "\"" + str  + "\"などと入力すれば候補に出ます");
-                    
                 }
 
                 return;
@@ -78,8 +77,10 @@ namespace SenmonKigo
                 button1.IsEnabled = true; button2.IsEnabled = true;
                 button1.Content = ls[0].department + " : " + ls[0].kigo; ;
                 button2.Content = ls[1].department + " : " + ls[1].kigo; ;
-                nowKigoList.Add(ls[0].kigo);
-                nowKigoList.Add(ls[1].kigo);
+                for(int j = 0; j < ls.Length; j++)
+                {
+                    nowKigoList.Add(ls[j].kigo);
+                }
 
                 for(int i = 2; i < ls.Length; i++)
                 {
@@ -109,7 +110,9 @@ namespace SenmonKigo
         {
             var idx = listBox1.SelectedIndex;
             if (idx == -1) return;
-
+            if (textBox1.Text == "") return;
+            Clipboard.SetText(nowKigoList[idx + 1]);
+            textBox1.Text = "";
         }
     }
 }
