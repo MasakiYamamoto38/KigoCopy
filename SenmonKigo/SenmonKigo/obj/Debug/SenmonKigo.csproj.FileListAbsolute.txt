@@ -12,3 +12,17 @@ c:\users\goodw\documents\visual studio 2017\Projects\SenmonKigo\SenmonKigo\obj\D
 c:\users\goodw\documents\visual studio 2017\Projects\SenmonKigo\SenmonKigo\obj\Debug\SenmonKigo.csproj.GenerateResource.Cache
 c:\users\goodw\documents\visual studio 2017\Projects\SenmonKigo\SenmonKigo\obj\Debug\SenmonKigo.exe
 c:\users\goodw\documents\visual studio 2017\Projects\SenmonKigo\SenmonKigo\obj\Debug\SenmonKigo.pdb
+C:\Users\goodw\Documents\Git\KigoCopy\SenmonKigo\SenmonKigo\bin\Debug\SenmonKigo.exe.config
+C:\Users\goodw\Documents\Git\KigoCopy\SenmonKigo\SenmonKigo\bin\Debug\SenmonKigo.exe
+C:\Users\goodw\Documents\Git\KigoCopy\SenmonKigo\SenmonKigo\bin\Debug\SenmonKigo.pdb
+C:\Users\goodw\Documents\Git\KigoCopy\SenmonKigo\SenmonKigo\obj\Debug\SenmonKigo.csprojResolveAssemblyReference.cache
+C:\Users\goodw\Documents\Git\KigoCopy\SenmonKigo\SenmonKigo\obj\Debug\MainWindow.g.cs
+C:\Users\goodw\Documents\Git\KigoCopy\SenmonKigo\SenmonKigo\obj\Debug\App.g.cs
+C:\Users\goodw\Documents\Git\KigoCopy\SenmonKigo\SenmonKigo\obj\Debug\SenmonKigo_MarkupCompile.cache
+C:\Users\goodw\Documents\Git\KigoCopy\SenmonKigo\SenmonKigo\obj\Debug\SenmonKigo_MarkupCompile.lref
+C:\Users\goodw\Documents\Git\KigoCopy\SenmonKigo\SenmonKigo\obj\Debug\MainWindow.baml
+C:\Users\goodw\Documents\Git\KigoCopy\SenmonKigo\SenmonKigo\obj\Debug\SenmonKigo.g.resources
+C:\Users\goodw\Documents\Git\KigoCopy\SenmonKigo\SenmonKigo\obj\Debug\SenmonKigo.Properties.Resources.resources
+C:\Users\goodw\Documents\Git\KigoCopy\SenmonKigo\SenmonKigo\obj\Debug\SenmonKigo.csproj.GenerateResource.Cache
+C:\Users\goodw\Documents\Git\KigoCopy\SenmonKigo\SenmonKigo\obj\Debug\SenmonKigo.exe
+C:\Users\goodw\Documents\Git\KigoCopy\SenmonKigo\SenmonKigo\obj\Debug\SenmonKigo.pdb
